@@ -1,0 +1,2639 @@
+﻿{
+    "success":  true,
+    "products":  [
+                     {
+                         "_id":  "6a858be8508412f43983ead7",
+                         "name":  "Organic Pure Natural Honey - 500g",
+                         "description":  "100% pure raw organic wildflower honey sourced directly from local farms. Unprocessed, unpasteurized, and rich in natural enzymes and antioxidants.",
+                         "category":  "Agriculture \u0026 Farming\nsubCategory:Organic Food \u0026 Honey\ntags:honey, organic, pure, farming, natural, health",
+                         "originalPrice":  599,
+                         "discountPrice":  449,
+                         "stock":  100,
+                         "images":  [
+
+                                    ],
+                         "productId":  120,
+                         "shopId":  "6a83f8e6efff8130c7d68757",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar Card",
+                                                        "number":  "548912345678",
+                                                        "photo":  "https://your-s3-bucket.amazonaws.com/uploads/doc1_aadhaar.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "GST Certificate",
+                                                        "number":  "27AAAAA0000A1Z5",
+                                                        "photo":  "https://your-s3-bucket.amazonaws.com/uploads/doc2_gst.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           72.8336,
+                                                                           19.1363
+                                                                       ]
+                                                   },
+                                      "_id":  "6a83f8e6efff8130c7d68757",
+                                      "name":  "MeCity Super Electronics Store",
+                                      "email":  "test_seller101@gmail.com",
+                                      "keyPoints":  "Fast same-day delivery, 100% Genuine Products, 7-day return policy, Certified Brand Warranty",
+                                      "address":  "Shop No. 104, 1st Floor, Crystal Plaza, New Link Road, Andheri West",
+                                      "phoneNumber":  9876543210,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/20260803_125346-1787033829438-973086618.jpg",
+                                      "zipCode":  400053,
+                                      "shopOwnerName":  "Rudra Joshi",
+                                      "city":  "Mumbai",
+                                      "state":  "Maharashtra",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1787033179110898903170903669979-1787033829528-81384435.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870331912596628018991947010704-1787033829808-927091831.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a83f89eefff8130c7d6872a",
+                                      "subscriptionPaidAt":  "2026-08-18T06:17:10.189Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "987654321098",
+                                      "bankIfscCode":  "SBIN0001234",
+                                      "bankAccountName":  "Rudra Joshi",
+                                      "bankName":  "State Bank of India",
+                                      "bankBranchName":  "Andheri West Main Branch",
+                                      "employeeCode":  "MECITY-VUI6H8",
+                                      "registeredBy":  "naaz shaikh",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0,
+                                      "description":  "Authorized dealer for premium electronics, smartphones, laptops, audio gear, and genuine accessories with manufacturer warranty."
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  true,
+                         "isBestSelling":  true,
+                         "createdAt":  "2026-08-19T05:42:55.568Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a85623f508412f43983ea57",
+                         "name":  "Fresh Baked Chocolate Pastry",
+                         "description":  "Delicious chocolate pastry with creamy frosting.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "cake, chocolate, bakery",
+                         "originalPrice":  150,
+                         "discountPrice":  120,
+                         "stock":  10,
+                         "images":  [
+
+                                    ],
+                         "productId":  119,
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  5,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+                                                          {
+                                                              "user":  "@{location=; _id=6a7d6a46efff8130c7d675ac; name=namaste to; email=rudrajoshi651@gmail.com; phoneNumber=3658241876; role=user; avatar=https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/avatar-1786604101970-679847840.png; createdAt=2026-08-04T11:45:19.750Z; adminStatus=Pending; adminPermissions=view; isActiveAdmin=True; addresses=System.Object[]; __v=2}",
+                                                              "rating":  5,
+                                                              "comment":  "nice cake",
+                                                              "createdAt":  "2026-08-04T11:45:19.910Z",
+                                                              "_id":  "6a84413defff8130c7d69afb"
+                                                          }
+                                                      ],
+                                      "__v":  1
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-19T05:42:55.568Z",
+                         "reviews":  [
+                                         {
+                                             "user":  {
+                                                          "location":  "@{type=Point; coordinates=System.Object[]}",
+                                                          "_id":  "6a8bd8eaefff8130c7d71a5e",
+                                                          "name":  "Test User Updated",
+                                                          "email":  "testdummyuser_check9988@gmail.com",
+                                                          "password":  "$2a$10$IY/Yz4Op6WJdEBS1ADJLHeIWQKstd/NVWoKOkKXPhM9Sck33cvh3G",
+                                                          "phoneNumber":  9876543210,
+                                                          "role":  "user",
+                                                          "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/avatar-1787562219202-216900967.png",
+                                                          "createdAt":  "2026-08-04T11:45:19.750Z",
+                                                          "adminStatus":  "Pending",
+                                                          "adminPermissions":  "view",
+                                                          "isActiveAdmin":  true,
+                                                          "addresses":  "",
+                                                          "__v":  1,
+                                                          "resetPasswordTime":  "2026-08-24T06:38:26.012Z",
+                                                          "resetPasswordToken":  "1734bd50acdb6b57fb8c6bd0de6bd07ea3f96203eae60153419e38e15a669bed"
+                                                      },
+                                             "rating":  5,
+                                             "comment":  "Delicious pastry! Highly recommended.",
+                                             "productId":  "6a85623f508412f43983ea57",
+                                             "createdAt":  "2026-08-04T11:45:19.979Z",
+                                             "_id":  "6a8c10c2efff8130c7d7417a"
+                                         },
+                                         {
+                                             "user":  {
+                                                          "location":  "@{type=Point; coordinates=System.Object[]}",
+                                                          "_id":  "6a8bd8eaefff8130c7d71a5e",
+                                                          "name":  "Test User Updated",
+                                                          "email":  "testdummyuser_check9988@gmail.com",
+                                                          "password":  "$2a$10$IY/Yz4Op6WJdEBS1ADJLHeIWQKstd/NVWoKOkKXPhM9Sck33cvh3G",
+                                                          "phoneNumber":  9876543210,
+                                                          "role":  "user",
+                                                          "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/avatar-1787562219202-216900967.png",
+                                                          "createdAt":  "2026-08-04T11:45:19.750Z",
+                                                          "adminStatus":  "Pending",
+                                                          "adminPermissions":  "view",
+                                                          "isActiveAdmin":  true,
+                                                          "addresses":  "",
+                                                          "__v":  2,
+                                                          "resetPasswordTime":  "2026-08-24T06:38:26.012Z",
+                                                          "resetPasswordToken":  "1734bd50acdb6b57fb8c6bd0de6bd07ea3f96203eae60153419e38e15a669bed"
+                                                      },
+                                             "rating":  5,
+                                             "comment":  "Excellent quality product!",
+                                             "productId":  "6a85623f508412f43983ea57",
+                                             "createdAt":  "2026-08-04T11:45:19.979Z",
+                                             "_id":  "6a8c176cefff8130c7d7420f"
+                                         },
+                                         {
+                                             "user":  {
+                                                          "location":  "@{type=Point; coordinates=System.Object[]}",
+                                                          "_id":  "6a8bd8eaefff8130c7d71a5e",
+                                                          "name":  "Test Buyer Live",
+                                                          "email":  "testdummyuser_check9988@gmail.com",
+                                                          "password":  "$2a$10$IY/Yz4Op6WJdEBS1ADJLHeIWQKstd/NVWoKOkKXPhM9Sck33cvh3G",
+                                                          "phoneNumber":  9876543210,
+                                                          "role":  "user",
+                                                          "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/avatar-1787562219202-216900967.png",
+                                                          "createdAt":  "2026-08-04T11:45:19.750Z",
+                                                          "adminStatus":  "Pending",
+                                                          "adminPermissions":  "view",
+                                                          "isActiveAdmin":  true,
+                                                          "addresses":  "",
+                                                          "__v":  2,
+                                                          "resetPasswordTime":  "2026-08-24T06:38:26.012Z",
+                                                          "resetPasswordToken":  "1734bd50acdb6b57fb8c6bd0de6bd07ea3f96203eae60153419e38e15a669bed"
+                                                      },
+                                             "rating":  5,
+                                             "comment":  "Excellent quality product!",
+                                             "productId":  "6a85623f508412f43983ea57",
+                                             "createdAt":  "2026-08-04T11:45:19.979Z",
+                                             "_id":  "6a8c17b4efff8130c7d7426d"
+                                         }
+                                     ],
+                         "__v":  3,
+                         "ratings":  5
+                     },
+                     {
+                         "_id":  "6a89873befff8130c7d70976",
+                         "name":  "selsun shampoo",
+                         "description":  "Selsun shampoo is an anti-dandruff shampoo commonly used to control dandruff, itchy scalp, and excess scalp flaking. Its active ingredient is usually selenium sulfide, which helps reduce the growth of the yeast/fungus associated with dandruff and slows excessive shedding of scalp skin.",
+                         "category":  "2. Personal Care \u0026 Grooming (In-house Brands focus) Bath \u0026 Body",
+                         "subCategory":  "Soaps, body wash, aur scrubs.",
+                         "tags":  "shampoo",
+                         "originalPrice":  578,
+                         "discountPrice":  478,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/selsun_shampoo-1787397947544-298384931.webp"
+                                    ],
+                         "productId":  130,
+                         "shopId":  "6a898531efff8130c7d70924",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "570455384577",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507529-1787397424415-971317348.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "AAHPO0779P",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507530-1787397424517-539213340.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a898531efff8130c7d70924",
+                                      "name":  "Anjani Medical ",
+                                      "email":  "bhavinoza4878@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "4-A, Supermall 1, Infocity",
+                                      "phoneNumber":  9624011131,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507523-1787397424403-146879880.jpg",
+                                      "zipCode":  302010,
+                                      "shopOwnerName":  "Bhavin oza",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507523-1787397424677-927624181.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507531-1787397424835-587386244.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a898507efff8130c7d70916",
+                                      "subscriptionPaidAt":  "2026-08-22T11:17:05.171Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8ABY14",
+                                      "registeredBy":  "harpal sinh sarvaiya",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "HARPAL_10FREE",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a880acfefff8130c7d6ed3e",
+                         "name":  "ખાંડ ",
+                         "description":  "50રૂપિયા પ્રતિ કિલોગ્રામ ખાંડ અત્યારે 45રૂપિયા પ્રતિ કિલોગ્રામ મળે છે.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Dairy Products",
+                         "tags":  "",
+                         "originalPrice":  50,
+                         "discountPrice":  45,
+                         "stock":  5000,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865245-1787300559545-508942340.png"
+                                    ],
+                         "productId":  124,
+                         "shopId":  "6a87ffc9efff8130c7d6ce2f",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "841408166505",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865114-1787297736607-789175899.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "BDERT1449A",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865116-1787297736702-196560073.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a87ffc9efff8130c7d6ce2f",
+                                      "name":  "Ma chamunda kirana store ",
+                                      "email":  "ravalakash1201@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Vadali crose road odhava Patan Odhava taluka sarswati district patan",
+                                      "phoneNumber":  9998933254,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865120-1787297736604-620161463.jpg",
+                                      "zipCode":  384265,
+                                      "shopOwnerName":  "Bharat bhai raval ",
+                                      "city":  "Patan",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865119-1787297736741-596411512.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865120-1787297736791-367630000.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a87ffc5efff8130c7d6ce29",
+                                      "subscriptionPaidAt":  "2026-08-21T07:35:37.052Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-0SXW1Z",
+                                      "registeredBy":  "Raval Akash",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a895d4cefff8130c7d6faa8",
+                         "name":  "Airtel Sim",
+                         "description":  "Airtel SIM card connects your mobile phone to Bharti Airtel\u0027s network for cellular service, voice calls, text, and superfast 4G or 5G Plus data. You can choose prepaid or postpaid plans, get free doorstep delivery, and enjoy perks like OTT subscriptions - \"Discover Airtel 5G Plus Superfast 5G speeds 17+ OTTs at no extra cost Superior network coverage Doorstep delivery \u0026 quick activation of SIM\" -- [Airtel SIM].",
+                         "category":  "Electronics",
+                         "tags":  "Airtel Sim",
+                         "originalPrice":  399,
+                         "discountPrice":  399,
+                         "stock":  1000,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000454738-1787387212065-150978738.jpg"
+                                    ],
+                         "productId":  125,
+                         "shopId":  "6a895957efff8130c7d6f9a4",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "652235092693",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507354-1787386199114-260149019.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "ASDPP9157A",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507353-1787386199196-499107229.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a895957efff8130c7d6f9a4",
+                                      "name":  "Brahmani Mobile",
+                                      "email":  "jkprajapati99@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "A,B-45Super Mall 1, Infocity, Gandhinagar ",
+                                      "phoneNumber":  9978512010,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507338-1787386199110-850271852.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Prajapati Jaynti Keshavlal",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507338-1787386199340-370120453.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507356-1787386199462-279815006.jpg",
+                                      "docVerificationStatus":  "Rejected",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a895918efff8130c7d6f99e",
+                                      "subscriptionPaidAt":  "2026-08-22T08:09:59.822Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  true,
+                         "isBestSelling":  true,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a895e07efff8130c7d6fac0",
+                         "name":  "20-W Usb-C Power Adapter",
+                         "description":  "This product is the LYNE Startup-4 (Chamber 21i) 20W USB-C Power Adapter, a fast-charging wall adaptor bundled with a USB-C to Lightning cable. It is designed primarily to provide safe, optimized quick-charging capabilities for compatible mobile devices like iPhones.",
+                         "category":  "Electronics",
+                         "tags":  "Charger",
+                         "originalPrice":  1999,
+                         "discountPrice":  750,
+                         "stock":  5,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000454739-1787387399620-118696641.jpg",
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000454741-1787387399621-115567225.jpg",
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000454740-1787387399653-390451476.jpg",
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000454742-1787387399698-131260201.jpg"
+                                    ],
+                         "productId":  126,
+                         "shopId":  "6a895957efff8130c7d6f9a4",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "652235092693",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507354-1787386199114-260149019.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "ASDPP9157A",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507353-1787386199196-499107229.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a895957efff8130c7d6f9a4",
+                                      "name":  "Brahmani Mobile",
+                                      "email":  "jkprajapati99@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "A,B-45Super Mall 1, Infocity, Gandhinagar ",
+                                      "phoneNumber":  9978512010,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507338-1787386199110-850271852.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Prajapati Jaynti Keshavlal",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507338-1787386199340-370120453.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507356-1787386199462-279815006.jpg",
+                                      "docVerificationStatus":  "Rejected",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a895918efff8130c7d6f99e",
+                                      "subscriptionPaidAt":  "2026-08-22T08:09:59.822Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  true,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a89689eefff8130c7d70064",
+                         "name":  "laptop",
+                         "description":  "fjdjdjddjdj",
+                         "category":  "6a2a78b84c34915295c74a0b",
+                         "originalPrice":  29999,
+                         "discountPrice":  25999,
+                         "stock":  100,
+                         "images":  [
+
+                                    ],
+                         "productId":  127,
+                         "shopId":  "6a854bc8efff8130c7d69d02",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "325698741526",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584875-729306323.jpeg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "FRTPP8796D",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_2-1787120584890-153797554.jpeg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a854bc8efff8130c7d69d02",
+                                      "name":  "MeCity Test Store 102",
+                                      "email":  "test_seller102@gmail.com",
+                                      "keyPoints":  "100% Genuine Products, Fast Shipping, 7 Days",
+                                      "address":  "Crystal Plaza, Link Road, Sargasan",
+                                      "phoneNumber":  9876543210,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584874-972803175.jpeg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Rudra Joshi",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584899-500764742.jpeg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584905-551586171.jpeg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a854bc8efff8130c7d69cfc",
+                                      "subscriptionPaidAt":  "2026-08-21T09:38:42.463Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "employeeCode":  "MECITY-0907YT",
+                                      "registeredBy":  "NENCY PATHAN ",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0,
+                                      "resetPasswordTime":  "2026-08-20T08:51:48.622Z",
+                                      "resetPasswordToken":  "95a6c53c6990972675e2a4777a1fcb652d9850f233fe3ab6a19082f6dde21495",
+                                      "description":  "100% Genuine Products, Fast Shipping, 7 Days"
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a896b5eefff8130c7d700d1",
+                         "name":  "Club De Nuit",
+                         "description":  "This is a woody floral musk fragrance designed for both men and women. It is well-regarded for its crisp, elegant, and sun-soaked Mediterranean vibe:Top Notes: Sea Notes, Red Fruits, and Bergamot (delivering a salty, juicy, and marine opening frequently compared to fresh watermelon).Heart Notes: Violet, White Woods, and Sandalwood (providing a smooth, powdery, and creamy floral core).Base Notes: Ambroxan, Musk, and Vetiver (giving it a clean, sophisticated, and long-lasting finish).",
+                         "category":  "Beauty \u0026 Salon",
+                         "tags":  "Perfume Body Spray",
+                         "originalPrice":  499,
+                         "discountPrice":  449,
+                         "stock":  4,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002482-1787390814128-151535597.jpg",
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002481-1787390814131-639414048.jpg",
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002480-1787390814253-150549011.jpg"
+                                    ],
+                         "productId":  128,
+                         "shopId":  "6a87fb91efff8130c7d6cab1",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "233644833748",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002187-1787296657429-811100894.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "DARPT6556E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_205-1787296657495-837405755.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a87fb91efff8130c7d6cab1",
+                                      "name":  "Poolside Cafe",
+                                      "email":  "smeetthakkar0@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Supermall1, Infocity, Gandhinagar",
+                                      "phoneNumber":  9558041496,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_350-1787296657428-530720128.png",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Smeet Thakkar",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000000442-1787296657507-747626382.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000001275-1787296657533-337888390.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a87fb7defff8130c7d6ca9a",
+                                      "subscriptionPaidAt":  "2026-08-21T07:17:37.700Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  4,
+                                      "description":  ""
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  true,
+                         "isBestSelling":  true,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a897084efff8130c7d70125",
+                         "name":  "Jeans",
+                         "description":  "Skinny and fit jeans",
+                         "category":  "2. Personal Care \u0026 Grooming (In-house Brands focus) Bath \u0026 Body",
+                         "tags":  "Jeans",
+                         "originalPrice":  1999,
+                         "discountPrice":  1299,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000001902-1787392132649-179617364.jpg"
+                                    ],
+                         "productId":  129,
+                         "shopId":  "6a87fb91efff8130c7d6cab1",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "233644833748",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002187-1787296657429-811100894.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "DARPT6556E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_205-1787296657495-837405755.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a87fb91efff8130c7d6cab1",
+                                      "name":  "Poolside Cafe",
+                                      "email":  "smeetthakkar0@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Supermall1, Infocity, Gandhinagar",
+                                      "phoneNumber":  9558041496,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_350-1787296657428-530720128.png",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Smeet Thakkar",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000000442-1787296657507-747626382.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000001275-1787296657533-337888390.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a87fb7defff8130c7d6ca9a",
+                                      "subscriptionPaidAt":  "2026-08-21T07:17:37.700Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  4,
+                                      "description":  ""
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a87feaaefff8130c7d6cd01",
+                         "name":  "Black forest cake ",
+                         "description":  "Fresh cake ",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "Cake ",
+                         "originalPrice":  1000,
+                         "discountPrice":  900,
+                         "stock":  5,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000376342-1787297449983-820917974.jpg"
+                                    ],
+                         "productId":  122,
+                         "shopId":  "6a87fce8efff8130c7d6cbf9",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "989867451344",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000506591-1787297000233-14420514.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RMPML4567D",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000506592-1787297000254-414967102.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a87fce8efff8130c7d6cbf9",
+                                      "name":  "Captain backery ",
+                                      "email":  "rajveer@gamil.com",
+                                      "keyPoints":  "",
+                                      "address":  "25, Swagat complex, kudasan",
+                                      "phoneNumber":  9510292315,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448924-1787297000232-189598804.jpg",
+                                      "zipCode":  382421,
+                                      "shopOwnerName":  "Rajveer bhai",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448922-1787297000297-730834701.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000425817-1787297000358-752317791.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a87fce6efff8130c7d6cbf3",
+                                      "subscriptionPaidAt":  "2026-08-21T07:23:20.478Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8ABY14",
+                                      "registeredBy":  "harpal sinh sarvaiya",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a8990ebefff8130c7d70b21",
+                         "name":  "Camphor Pouch",
+                         "description":  "IKI Camphor Pouch is a convenient, long-lasting fragrance pouch infused with camphor. It releases a refreshing aroma that helps create a clean and pleasant atmosphere in wardrobes, rooms, cars, bathrooms, and other enclosed spaces. Its compact pouch design makes it easy to place or hang wherever you need a fresh fragrance.",
+                         "category":  "Chemicals",
+                         "tags":  "Camphor Pouch",
+                         "originalPrice":  199,
+                         "discountPrice":  179,
+                         "stock":  19,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-22_at_5_36_28_PM-1787400427106-7202432.jpeg"
+                                    ],
+                         "productId":  131,
+                         "shopId":  "6a898ea0efff8130c7d70a84",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "GST",
+                                                        "number":  "24GRNPS1947G1ZB",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002497-1787399839773-723997197.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0038353",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002499-1787399839909-798708316.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a898ea0efff8130c7d70a84",
+                                      "name":  "Majisha Enterprise",
+                                      "email":  "xerox.45666@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Shop No.47, Supermall 2, Infocity",
+                                      "phoneNumber":  9974254942,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002495-1787399839768-551546734.jpg",
+                                      "zipCode":  382007,
+                                      "shopOwnerName":  "Dharmendra Solanki",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002495-1787399839913-278701925.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002496-1787399839930-153248748.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a898e88efff8130c7d70a7e",
+                                      "subscriptionPaidAt":  "2026-08-22T11:57:20.219Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "SMEET_10FREE",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a8bd75defff8130c7d71997",
+                         "name":  "iphone",
+                         "description":  "iphone 17 pro 256 GB",
+                         "category":  "6a2aa1094c34915295c74cb9",
+                         "originalPrice":  50000,
+                         "discountPrice":  55000,
+                         "stock":  0,
+                         "images":  [
+
+                                    ],
+                         "productId":  132,
+                         "shopId":  "6a854bc8efff8130c7d69d02",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "325698741526",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584875-729306323.jpeg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "FRTPP8796D",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_2-1787120584890-153797554.jpeg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a854bc8efff8130c7d69d02",
+                                      "name":  "MeCity Test Store 102",
+                                      "email":  "test_seller102@gmail.com",
+                                      "keyPoints":  "100% Genuine Products, Fast Shipping, 7 Days",
+                                      "address":  "Crystal Plaza, Link Road, Sargasan",
+                                      "phoneNumber":  9876543210,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584874-972803175.jpeg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Rudra Joshi",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584899-500764742.jpeg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584905-551586171.jpeg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a854bc8efff8130c7d69cfc",
+                                      "subscriptionPaidAt":  "2026-08-21T09:38:42.463Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "employeeCode":  "MECITY-0907YT",
+                                      "registeredBy":  "NENCY PATHAN ",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0,
+                                      "resetPasswordTime":  "2026-08-20T08:51:48.622Z",
+                                      "resetPasswordToken":  "95a6c53c6990972675e2a4777a1fcb652d9850f233fe3ab6a19082f6dde21495",
+                                      "description":  "100% Genuine Products, Fast Shipping, 7 Days"
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a8bd840efff8130c7d719d4",
+                         "name":  "minimalist cleanser",
+                         "description":  "cleanser",
+                         "category":  "6a2aa00c4c34915295c74c9b",
+                         "originalPrice":  300,
+                         "discountPrice":  370,
+                         "stock":  2,
+                         "images":  [
+
+                                    ],
+                         "productId":  133,
+                         "shopId":  "6a854bc8efff8130c7d69d02",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "325698741526",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584875-729306323.jpeg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "FRTPP8796D",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_2-1787120584890-153797554.jpeg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a854bc8efff8130c7d69d02",
+                                      "name":  "MeCity Test Store 102",
+                                      "email":  "test_seller102@gmail.com",
+                                      "keyPoints":  "100% Genuine Products, Fast Shipping, 7 Days",
+                                      "address":  "Crystal Plaza, Link Road, Sargasan",
+                                      "phoneNumber":  9876543210,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584874-972803175.jpeg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Rudra Joshi",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584899-500764742.jpeg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584905-551586171.jpeg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a854bc8efff8130c7d69cfc",
+                                      "subscriptionPaidAt":  "2026-08-21T09:38:42.463Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "employeeCode":  "MECITY-0907YT",
+                                      "registeredBy":  "NENCY PATHAN ",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0,
+                                      "resetPasswordTime":  "2026-08-20T08:51:48.622Z",
+                                      "resetPasswordToken":  "95a6c53c6990972675e2a4777a1fcb652d9850f233fe3ab6a19082f6dde21495",
+                                      "description":  "100% Genuine Products, Fast Shipping, 7 Days"
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a8bd8dbefff8130c7d71a47",
+                         "name":  "earbuds",
+                         "description":  "earbuds",
+                         "category":  "6a2aa1094c34915295c74cb9",
+                         "originalPrice":  1200,
+                         "discountPrice":  1450,
+                         "stock":  5,
+                         "images":  [
+
+                                    ],
+                         "productId":  134,
+                         "shopId":  "6a854bc8efff8130c7d69d02",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "325698741526",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584875-729306323.jpeg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "FRTPP8796D",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_2-1787120584890-153797554.jpeg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a854bc8efff8130c7d69d02",
+                                      "name":  "MeCity Test Store 102",
+                                      "email":  "test_seller102@gmail.com",
+                                      "keyPoints":  "100% Genuine Products, Fast Shipping, 7 Days",
+                                      "address":  "Crystal Plaza, Link Road, Sargasan",
+                                      "phoneNumber":  9876543210,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584874-972803175.jpeg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Rudra Joshi",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584899-500764742.jpeg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584905-551586171.jpeg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a854bc8efff8130c7d69cfc",
+                                      "subscriptionPaidAt":  "2026-08-21T09:38:42.463Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "employeeCode":  "MECITY-0907YT",
+                                      "registeredBy":  "NENCY PATHAN ",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0,
+                                      "resetPasswordTime":  "2026-08-20T08:51:48.622Z",
+                                      "resetPasswordToken":  "95a6c53c6990972675e2a4777a1fcb652d9850f233fe3ab6a19082f6dde21495",
+                                      "description":  "100% Genuine Products, Fast Shipping, 7 Days"
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a8bd973efff8130c7d71abe",
+                         "name":  "moto phone",
+                         "description":  "moto phone",
+                         "category":  "6a2aa1094c34915295c74cb9",
+                         "originalPrice":  21000,
+                         "discountPrice":  25000,
+                         "stock":  2,
+                         "images":  [
+
+                                    ],
+                         "productId":  135,
+                         "shopId":  "6a854bc8efff8130c7d69d02",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "325698741526",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584875-729306323.jpeg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "FRTPP8796D",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_2-1787120584890-153797554.jpeg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a854bc8efff8130c7d69d02",
+                                      "name":  "MeCity Test Store 102",
+                                      "email":  "test_seller102@gmail.com",
+                                      "keyPoints":  "100% Genuine Products, Fast Shipping, 7 Days",
+                                      "address":  "Crystal Plaza, Link Road, Sargasan",
+                                      "phoneNumber":  9876543210,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584874-972803175.jpeg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Rudra Joshi",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584899-500764742.jpeg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584905-551586171.jpeg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a854bc8efff8130c7d69cfc",
+                                      "subscriptionPaidAt":  "2026-08-21T09:38:42.463Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "employeeCode":  "MECITY-0907YT",
+                                      "registeredBy":  "NENCY PATHAN ",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0,
+                                      "resetPasswordTime":  "2026-08-20T08:51:48.622Z",
+                                      "resetPasswordToken":  "95a6c53c6990972675e2a4777a1fcb652d9850f233fe3ab6a19082f6dde21495",
+                                      "description":  "100% Genuine Products, Fast Shipping, 7 Days"
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a8bec7defff8130c7d71f83",
+                         "name":  "makeup setting spray",
+                         "description":  "it’s a makeup-finishing spray designed to help set your makeup, reduce the need for frequent touch-ups, and give the skin a fresh, finished look. It can be misted over the face after completing makeup to help everything blend together and last longer.",
+                         "category":  "Beauty \u0026 Salon",
+                         "tags":  "sugar pop",
+                         "originalPrice":  299,
+                         "discountPrice":  270,
+                         "stock":  3,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/71uR2dPz_OL_jpg_BO30_255_255_255_UF750_750_SR1910_-1787554941910-215100137.jpg"
+                                    ],
+                         "productId":  136,
+                         "shopId":  "6a8bea43efff8130c7d71f1f",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "GST",
+                                                        "number":  "24BWJPG6568H1Z9",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002666-1787554371477-396877354.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0021706",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002670-1787554371602-538952334.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a8bea43efff8130c7d71f1f",
+                                      "name":  "Info Stationary and Printers",
+                                      "email":  "shreejienterprise8494@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "A-12, Supermall 1, Infocity",
+                                      "phoneNumber":  8469433394,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002658-1787554371470-617698522.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Arvind Bhai",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002658-1787554371608-69891318.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002659-1787554371627-615965488.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a8bea28efff8130c7d71f19",
+                                      "subscriptionPaidAt":  "2026-08-24T06:52:51.946Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "SMEET_10FREE",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a8d3ba1efff8130c7d7527c",
+                         "name":  "Oversized T-Shirt",
+                         "description":  "This cream-colored crewneck t-shirt features a bold graphic aesthetic with a relaxed, modern fit.\r\n​Key Features\r\n​Color \u0026 Fabric: Off-white/cream shade in a smooth knit cotton fabric.\r\n​Graphic Design: Features Japanese Katakana-inspired lettering in vibrant colors (yellow, magenta, and teal) across the chest, flanked by yellow and blue abstract accent lines running along the upper sleeves and shoulders.\r\n​Fit \u0026 Cut: Relaxed/oversized streetwear fit with a standard ribbed crew collar, short sleeves, and a straight hem.",
+                         "category":  "Beauty \u0026 Salon",
+                         "tags":  "T-Shirt",
+                         "originalPrice":  999,
+                         "discountPrice":  499,
+                         "stock":  10,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/20260825_121759-1787640737393-375520066.jpg",
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/20260825_121747-1787640737395-287957391.jpg",
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/20260825_121741-1787640737501-666665019.jpg"
+                                    ],
+                         "productId":  137,
+                         "shopId":  "6a8d3973efff8130c7d75196",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "653283708831",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002807-1787640178830-592714138.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "ASAPB3338G",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002806-1787640178909-935337236.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a8d3973efff8130c7d75196",
+                                      "name":  "Infinity Western Outfit",
+                                      "email":  "bigadhoi@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Shop No.6, Supermall 1, Infocity",
+                                      "phoneNumber":  9016386659,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002804-1787640178825-76775389.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Sagar Bhai",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002804-1787640179035-542204612.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002805-1787640179110-645397991.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a8d3951efff8130c7d75190",
+                                      "subscriptionPaidAt":  "2026-08-25T06:42:59.422Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "SMEET_10FREE",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  true,
+                         "isBestSelling":  true,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a880147efff8130c7d6cf83",
+                         "name":  "Vivo v60",
+                         "description":  "Display: 6.77-inch FHD+ (2392×1080) Equal-Depth Quad Curved AMOLED display. FoneArena.com\r\n\r\nRefresh Rate \u0026 Brightness: 120Hz refresh rate with a peak local brightness of up to 5,000 nits. FoneArena.com\r\n\r\nBuild \u0026 Durability: Ultra-slim profile starting at 7.53mm thickness. Features Diamond Shield Glass protection along with IP68 and IP69 water and dust resistance ratings. FoneArena.com +1\r\n\r\nPerformance \u0026 Hardware\r\n\r\nΟ\r\n\r\nΟ\r\n\r\nProcessor: Qualcomm Snapdragon 7 Gen 4 (4nm platform). FoneArena.com\r\n\r\nRAM \u0026 Storage Options: 8GB, 12GB, or 16GB RAM with 128GB, 256GB, or 512GB\r\n\r\ninternal storage\r\n\r\nneArena.com\r\n\r\nΟ\r\n\r\nCooling Syster\r\n\r\na Large VC Smart\r\n\r\nAsk Gemini\r\n\r\nMain Rear Camera: 50MP Sony IMX766",
+                         "category":  "Electronics",
+                         "tags":  "6000",
+                         "originalPrice":  34999,
+                         "discountPrice":  29999,
+                         "stock":  45,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000098190-1787298119320-63644647.jpg"
+                                    ],
+                         "productId":  123,
+                         "shopId":  "6a83fc4fefff8130c7d6888b",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "786567898765",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870341375523857469509103574543-1787034703176-12961215.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "JHHDD1234A",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870341970298944734460123031355-1787034703268-359802278.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a83fc4fefff8130c7d6888b",
+                                      "name":  "Phone wale ",
+                                      "email":  "prajapatijay1302@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Mansa gandhinagar Gujarat ",
+                                      "phoneNumber":  9714075138,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000097470-1787034703172-108642223.jpg",
+                                      "zipCode":  382845,
+                                      "shopOwnerName":  "Akash patel",
+                                      "city":  "Mansa",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1787034270093606433931171696417-1787034703326-87241564.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870342831887805575707414892705-1787034703425-310533288.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a83fc4befff8130c7d68885",
+                                      "subscriptionPaidAt":  "2026-08-18T06:31:43.673Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-VUI6H8",
+                                      "registeredBy":  "naaz shaikh",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "_id":  "6a87fddcefff8130c7d6cc89",
+                         "name":  "Pizza",
+                         "description":  "Cheese Lovers Pizza\r\nFor the true cheese addicts! Extra cheesy, extra creamy and loaded with irresistible cheesy goodness",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Cafe",
+                         "tags":  "Margareta Pizza",
+                         "originalPrice":  359,
+                         "discountPrice":  309,
+                         "stock":  1000,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002370-1787297244063-522324439.png"
+                                    ],
+                         "productId":  121,
+                         "shopId":  "6a87fb91efff8130c7d6cab1",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "Aadhaar",
+                                                        "number":  "233644833748",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002187-1787296657429-811100894.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "DARPT6556E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_205-1787296657495-837405755.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a87fb91efff8130c7d6cab1",
+                                      "name":  "Smeet Thakkar",
+                                      "email":  "smeetthakkar0@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Supermall1, Infocity, Gandhinagar",
+                                      "phoneNumber":  9558041496,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_350-1787296657428-530720128.png",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Smeet Thakkar",
+                                      "city":  "Gandhinagar",
+                                      "state":  "Gujarat",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000000442-1787296657507-747626382.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000001275-1787296657533-337888390.jpg",
+                                      "docVerificationStatus":  "Pending",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a87fb7defff8130c7d6ca9a",
+                                      "subscriptionPaidAt":  "2026-08-21T07:17:37.700Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-4EJ5EX",
+                                      "registeredBy":  "smeet thakkar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "isFeatured":  true,
+                         "isBestSelling":  true,
+                         "createdAt":  "2026-08-04T11:45:19.979Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4ca514e9ca0f13dc821d8c",
+                         "name":  "Butter Scotch 500g",
+                         "description":  "Eggless Crunchy, Creamy, Every bite of this butterscotch cakes melts in your mouth with caramel bliss.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  390,
+                         "discountPrice":  350,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/BUTTER_SCOTCH-1783407891839-227357497.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  117
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4cadefe9ca0f13dc821e58",
+                         "name":  "Choco Chip 500g",
+                         "description":  "Soft, fluffy eggless chocolate cake bursting with gooey chocolate chips - a delightful treat for all chocolate lovers.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  445,
+                         "discountPrice":  397,
+                         "stock":  1,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/CHOCO_CHIP-1783410159108-337357985.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  105
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4cad53e9ca0f13dc821e3b",
+                         "name":  "Choco Truffle 500g",
+                         "description":  "An indulgent eggless choco truffle cake layered with smooth chocolate ganache and coated in glossy truffle glaze. A heavenly delight for every celebration.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  415,
+                         "discountPrice":  370,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/CHOCO_TRUFFL-1783410003521-75969864.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  106
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4cace6e9ca0f13dc821e26",
+                         "name":  "Choco Swiss 500g",
+                         "description":  "Deliciiously soft chocolate sponge layered with smooth cream and rolled to sprinkle perfection of vermicelli on side.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  415,
+                         "discountPrice":  370,
+                         "stock":  1,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/SWISS_ROLL-1783409894046-626740776.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  107
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4cac72e9ca0f13dc821e12",
+                         "name":  "Choco  Caramel 500g",
+                         "description":  "Rich chocolate layers filled with smooth caramel cream - a perfectly moist and eggless delight for every chocolate and vanilla lover.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  415,
+                         "discountPrice":  374,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/CHOCO_CARAMEL-1783409778289-796294916.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  109
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4cabfae9ca0f13dc821e07",
+                         "name":  "Pineapple 500g",
+                         "description":  "Eggless Pineapple delight layered with cream and juicy pineapple flavour - light, fresh \u0026 irresistibly soft.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  390,
+                         "discountPrice":  349,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/PINEAPPLE-1783409657946-521206292.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  110
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4cab79e9ca0f13dc821dfc",
+                         "name":  "Chocolate Dry Fruit 500g",
+                         "description":  "An indulgent masterpiece featuring a rich, moist chocolate sponge embraced by an elegant, handcrafted dark chocolate lace collar. Crowded with professionally piped chocolate ganache peaks, premium roasted almonds, buttery cashews, and a vibrant medley of golden and dark raisins, this cake is the ultimate celebration of texture and luxury.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  565,
+                         "discountPrice":  510,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/Gemini_Generated_Image_jvky4ajvky4ajvky-1783409529450-657909681.png"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  111
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4ca81ee9ca0f13dc821de0",
+                         "name":  "Choco Mud 500g",
+                         "description":  "A decadent eggless chocolate delight, baked to perfection with a dense, gooey texture and intense cocoa flavour.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  390,
+                         "discountPrice":  350,
+                         "stock":  1,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/MUD-1783408670354-418297341.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  112
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4ca7bbe9ca0f13dc821dd5",
+                         "name":  "Coffee 500g",
+                         "description":  "Rich, moist coffee-flavored cake baked to perfection - completely eggless and irresistibly aromatic. Perfect for coffee lovers!",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  390,
+                         "discountPrice":  350,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/COFFEE-1783408571297-666525821.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  113
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4ca741e9ca0f13dc821dca",
+                         "name":  "Choco Walnut 500g",
+                         "description":  "Indulge in layers of soft, moist chocolate sponge filled with rich chocolate cream, coated in a glossy chocolate ganache, and finished with crunchy roasted walnuts. A perfect blend of intense chocolate and nutty goodness for every celebration.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  390,
+                         "discountPrice":  350,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WALNUT-1783408449336-676715104.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  114
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4ca5c9e9ca0f13dc821dad",
+                         "name":  "Strawberry 500g",
+                         "description":  "Eggless Delight with creamy layers and real strawberry flavour - fresh, soft and irresistibly sweet.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  390,
+                         "discountPrice":  350,
+                         "stock":  0,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/STRAWBERRY-1783408072743-823130271.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  115
+                     },
+                     {
+                         "isFeatured":  false,
+                         "isBestSelling":  false,
+                         "_id":  "6a4ca578e9ca0f13dc821da2",
+                         "name":  "Cassata 500g",
+                         "description":  "A classic Italian inspired eggless cassata cake - soft sponge layered with velvety cream and fruit flavors. A colorful, creamy treat for every celebration.",
+                         "category":  "Food \u0026 Beverage",
+                         "subCategory":  "Freshly Bakery",
+                         "tags":  "",
+                         "originalPrice":  390,
+                         "discountPrice":  348,
+                         "stock":  1,
+                         "images":  [
+                                        "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/CASSATTA-1783407991787-768542248.JPG"
+                                    ],
+                         "shopId":  "6a3be785e63a0ecb3d51776a",
+                         "shop":  {
+                                      "document1":  {
+                                                        "type":  "MSME",
+                                                        "number":  "UDYAM-GJ-09-0035448",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                                    },
+                                      "document2":  {
+                                                        "type":  "PAN",
+                                                        "number":  "RGYPS3744E",
+                                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                                    },
+                                      "location":  {
+                                                       "type":  "Point",
+                                                       "coordinates":  [
+                                                                           0,
+                                                                           0
+                                                                       ]
+                                                   },
+                                      "_id":  "6a3be785e63a0ecb3d51776a",
+                                      "name":  "Sky Cake ",
+                                      "email":  "skycake2026@gmail.com",
+                                      "keyPoints":  "",
+                                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                                      "phoneNumber":  6355832813,
+                                      "role":  "Seller",
+                                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                                      "zipCode":  382010,
+                                      "shopOwnerName":  "Ravi Gohil",
+                                      "city":  "GANDHINAGAR",
+                                      "state":  "Gujarat ",
+                                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                                      "docVerificationStatus":  "Approved",
+                                      "availableBalance":  0,
+                                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                                      "status":  "Verified",
+                                      "rejectReason":  "",
+                                      "subscriptionPaid":  true,
+                                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                                      "isActive":  true,
+                                      "ratings":  0,
+                                      "bankAccountNumber":  "",
+                                      "bankIfscCode":  "",
+                                      "bankAccountName":  "",
+                                      "bankName":  "",
+                                      "bankBranchName":  "",
+                                      "employeeCode":  "MECITY-8MGD8M",
+                                      "registeredBy":  "Vimal kumar",
+                                      "discountCouponApplied":  true,
+                                      "discountCouponCode":  "THEME_100",
+                                      "transections":  [
+
+                                                       ],
+                                      "shopRatings":  [
+
+                                                      ],
+                                      "__v":  0
+                                  },
+                         "sold_out":  0,
+                         "createdAt":  "2026-06-27T11:50:35.035Z",
+                         "reviews":  [
+
+                                     ],
+                         "__v":  0,
+                         "productId":  116
+                     }
+                 ]
+}

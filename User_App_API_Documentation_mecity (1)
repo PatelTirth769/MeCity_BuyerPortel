@@ -1,0 +1,166 @@
+# User App API Documentation
+
+This document outlines the backend APIs required for the mobile app developer to build the User App. It covers all the functionalities that a normal user can access on the web platform, including Authentication, Browsing (Products, Categories, Events, Shops), and Orders.
+
+> [!IMPORTANT]  
+> All endpoints requiring authentication must include the user's JWT token (received on login/register) in the `Cookie` or `Authorization` header, depending on your app's networking library setup.
+
+---
+
+## 1. Authentication & User Profile
+
+### Register User (Email/Password)
+- **Endpoint:** `POST https://marketplace.mecity.in/api/v2/user/create-user`
+- **Content-Type:** `multipart/form-data`
+- **Body Parameters:**
+  - `name` (String)
+  - `email` (String)
+  - `password` (String)
+  - `phoneNumber` (Number)
+  - `file` (Image/File - Avatar)
+  - `role` (String, optional, defaults to "user")
+- **Response:** Success message indicating account created and activation email sent.
+
+### Login User (Email)
+- **Endpoint:** `POST https://marketplace.mecity.in/api/v2/user/login-user`
+- **Content-Type:** `application/json`
+- **Body Parameters:**
+  ```json
+  {
+    "email": "user@example.com",
+    "password": "password123",
+    "role": "user"
+  }
+  ```
+- **Response:** User object and JWT token.
+
+### Send OTP (Mobile Login)
+- **Endpoint:** `POST https://marketplace.mecity.in/api/v2/user/send-otp`
+- **Content-Type:** `application/json`
+- **Body Parameters:**
+  ```json
+  {
+    "phoneNumber": "9876543210",
+    "role": "user"
+  }
+  ```
+- **Response:** Success message indicating OTP sent (valid for 5 mins).
+
+### Verify OTP & Login
+- **Endpoint:** `POST https://marketplace.mecity.in/api/v2/user/verify-otp`
+- **Content-Type:** `application/json`
+- **Body Parameters:**
+  ```json
+  {
+    "phoneNumber": "9876543210",
+    "otp": "123456",
+    "role": "user"
+  }
+  ```
+- **Response:** User object and JWT token.
+
+### Get Logged In User Profile
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/user/getuser`
+- **Headers:** Requires Authentication Token.
+- **Response:** User object containing profile details.
+
+### Update Profile Information
+- **Endpoint:** `PUT https://marketplace.mecity.in/api/v2/user/update-user-info`
+- **Headers:** Requires Authentication Token.
+- **Content-Type:** `application/json`
+- **Body Parameters:** `email`, `password`, `phoneNumber`, `name`, `location`, etc.
+
+### Logout User
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/user/logout`
+- **Response:** Clears the cookie/session.
+
+---
+
+## 2. Home Page / Browsing Data
+
+### Get All Categories
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/category/get-all-categories`
+- **Response:** Array of category objects (`categories`).
+
+### Get All Active Products
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/product/get-all-products`
+- **Response:** Array of all products from active/verified shops (`products`).
+
+### Get All Events (Banners/Promotions)
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/event/get-all-events`
+- **Response:** Array of events from active/verified shops (`events`).
+
+---
+
+## 3. Shop & Store Listings
+
+### Get Shops Near Me
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/shop/get-shops-near-me`
+- **Headers:** Requires Authentication Token (relies on user's saved location coordinates).
+- **Response:** Array of shops within a 10km radius (`shops`).
+
+### Get Specific Shop Info
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/shop/get-shop-info/:id`
+- **Path Parameter:** `id` (Shop ID)
+- **Response:** Shop object details (`shop`).
+
+### Get Products of a Specific Shop
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/product/get-all-products-shop/:id`
+- **Path Parameter:** `id` (Shop ID)
+- **Response:** Array of products belonging to that shop (`products`).
+
+---
+
+## 4. Cart, Checkout & Orders
+
+### Create New Order
+- **Endpoint:** `POST https://marketplace.mecity.in/api/v2/order/create-order`
+- **Content-Type:** `application/json`
+- **Body Parameters:**
+  ```json
+  {
+    "cart": [
+      {
+        "shopId": "...",
+        "productId": "...",
+        "quantity": 1,
+        "price": 100
+      }
+    ],
+    "shippingAddress": {
+      "address": "...",
+      "city": "...",
+      "zipCode": "...",
+      "country": "..."
+    },
+    "user": { "_id": "...", "name": "...", "email": "..." },
+    "totalPrice": 100,
+    "paymentInfo": {
+      "id": "...",
+      "status": "succeeded",
+      "type": "..."
+    }
+  }
+  ```
+- **Response:** Returns the created order object(s). (Note: Backend splits orders by `shopId`).
+
+### Get User's Order History
+- **Endpoint:** `GET https://marketplace.mecity.in/api/v2/order/get-all-orders/:userId`
+- **Path Parameter:** `userId` (The logged-in user's ID)
+- **Response:** Array of user's past orders (`orders`), sorted by newest first.
+
+### Submit Product Review
+- **Endpoint:** `PUT https://marketplace.mecity.in/api/v2/product/create-new-review`
+- **Headers:** Requires Authentication Token.
+- **Content-Type:** `application/json`
+- **Body Parameters:**
+  ```json
+  {
+    "user": { "_id": "...", "name": "..." },
+    "rating": 5,
+    "comment": "Great product!",
+    "productId": "...",
+    "orderId": "..."
+  }
+  ```
+- **Response:** Success message. Updates the product's ratings and marks the item as reviewed in the order.

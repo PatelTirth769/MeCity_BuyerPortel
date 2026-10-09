@@ -1,0 +1,2144 @@
+﻿{
+    "success":  true,
+    "shops":  [
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "566545544565",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-05_at_3_15_04_PM-1787139440123-61710432.jpeg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "DFDFG6767H",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-19_at_2_01_04_AM-1787139440194-155708598.jpeg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a859570164e48643e4494f7",
+                      "name":  "test seller shop",
+                      "email":  "okpatel458@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "fulladdressss",
+                      "phoneNumber":  7878963122,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-19_at_2_01_04_AM__1_-1787139440119-296366552.jpeg",
+                      "zipCode":  787749,
+                      "shopOwnerName":  "owner",
+                      "city":  "Adoni",
+                      "state":  "Andhra Pradesh",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-19_at_2_01_04_AM__1_-1787139440207-976659396.jpeg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-05_at_3_15_04_PM-1787139440221-568978703.jpeg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-19T11:29:11.060Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a85956f164e48643e4494f1",
+                      "subscriptionPaidAt":  "2026-08-19T11:37:20.692Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4EJ5EX",
+                      "registeredBy":  "smeet thakkar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "GST",
+                                        "number":  "24GRNPS1947G1ZB",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002497-1787399839773-723997197.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "MSME",
+                                        "number":  "UDYAM-GJ-09-0038353",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002499-1787399839909-798708316.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a898ea0efff8130c7d70a84",
+                      "name":  "Majisha Enterprise",
+                      "email":  "xerox.45666@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Shop No.47, Supermall 2, Infocity",
+                      "phoneNumber":  9974254942,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002495-1787399839768-551546734.jpg",
+                      "zipCode":  382007,
+                      "shopOwnerName":  "Dharmendra Solanki",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002495-1787399839913-278701925.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002496-1787399839930-153248748.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a898e88efff8130c7d70a7e",
+                      "subscriptionPaidAt":  "2026-08-22T11:57:20.219Z",
+                      "isActive":  true,
+                      "ratings":  5,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4EJ5EX",
+                      "registeredBy":  "smeet thakkar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "SMEET_10FREE",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+                                          "@{user=; rating=5; comment=All stationary products available ; createdAt=2026-08-04T11:45:19.910Z; _id=6a8991a3efff8130c7d70b6b}"
+                                      ],
+                      "__v":  1
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "767898765678",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-13_at_2_57_43_PM-1787293408771-309678056.jpeg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "KJHGH2345J",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-12_at_10_56_58_AM-1787293408778-630989870.jpeg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a87eee0efff8130c7d6c55f",
+                      "name":  "nazera shaikh",
+                      "email":  "demo@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "MULCHAND PARK PETHAPUR",
+                      "phoneNumber":  9898767876,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-12_at_10_56_58_AM-1787293408771-259766074.jpeg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "nazera",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-12_at_5_15_34_PM-1787293408785-955960286.jpeg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-13_at_12_17_57_PM-1787293408788-531354530.jpeg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a87eee0efff8130c7d6c559",
+                      "subscriptionPaidAt":  "2026-08-21T06:23:28.857Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-VUI6H8",
+                      "registeredBy":  "naaz shaikh",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "233644833748",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002187-1787296657429-811100894.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "DARPT6556E",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_205-1787296657495-837405755.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a87fb91efff8130c7d6cab1",
+                      "name":  "Poolside Cafe",
+                      "email":  "smeetthakkar0@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Supermall1, Infocity, Gandhinagar",
+                      "phoneNumber":  9558041496,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/32de12d1-dfa4-47bc-a2cb-7b431ac56bbb-1_all_350-1787296657428-530720128.png",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Smeet Thakkar",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000000442-1787296657507-747626382.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000001275-1787296657533-337888390.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a87fb7defff8130c7d6ca9a",
+                      "subscriptionPaidAt":  "2026-08-21T07:17:37.700Z",
+                      "isActive":  true,
+                      "ratings":  5,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4EJ5EX",
+                      "registeredBy":  "smeet thakkar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+                                          "@{user=; rating=5; comment=Nice food and nice service; createdAt=2026-08-04T11:45:19.910Z; _id=6a8970dbefff8130c7d70147}"
+                                      ],
+                      "__v":  5,
+                      "description":  ""
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "989867451344",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000506591-1787297000233-14420514.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "RMPML4567D",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000506592-1787297000254-414967102.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a87fce8efff8130c7d6cbf9",
+                      "name":  "Captain backery ",
+                      "email":  "rajveer@gamil.com",
+                      "keyPoints":  "",
+                      "address":  "25, Swagat complex, kudasan",
+                      "phoneNumber":  9510292315,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448924-1787297000232-189598804.jpg",
+                      "zipCode":  382421,
+                      "shopOwnerName":  "Rajveer bhai",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448922-1787297000297-730834701.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000425817-1787297000358-752317791.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a87fce6efff8130c7d6cbf3",
+                      "subscriptionPaidAt":  "2026-08-21T07:23:20.478Z",
+                      "isActive":  true,
+                      "ratings":  5,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-8ABY14",
+                      "registeredBy":  "harpal sinh sarvaiya",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+                                          "@{user=; rating=5; comment=mast cake male che. jeeb par pani aavi jay che .; createdAt=2026-08-04T11:45:19.910Z; _id=6a8808fdefff8130c7d6d134}"
+                                      ],
+                      "__v":  1
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "841408166505",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865114-1787297736607-789175899.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "BDERT1449A",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865116-1787297736702-196560073.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a87ffc9efff8130c7d6ce2f",
+                      "name":  "Ma chamunda kirana store ",
+                      "email":  "ravalakash1201@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Vadali crose road odhava Patan Odhava taluka sarswati district patan",
+                      "phoneNumber":  9998933254,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865120-1787297736604-620161463.jpg",
+                      "zipCode":  384265,
+                      "shopOwnerName":  "Bharat bhai raval ",
+                      "city":  "Patan",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865119-1787297736741-596411512.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/865120-1787297736791-367630000.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a87ffc5efff8130c7d6ce29",
+                      "subscriptionPaidAt":  "2026-08-21T07:35:37.052Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-0SXW1Z",
+                      "registeredBy":  "Raval Akash",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "349916876983",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000063944-1787299938758-359632416.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "DARPT6666E",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000063943-1787299938882-687752958.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a880863efff8130c7d6d0e0",
+                      "name":  "Food ",
+                      "email":  "nareshkatara4882@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Sargasan, gandhinagar, gujarat",
+                      "phoneNumber":  9664523296,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000063778-1787299938754-102200872.png",
+                      "zipCode":  382007,
+                      "shopOwnerName":  "Naresh bhai katara ",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000063778-1787299938926-788558382.png",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000063779-1787299938974-283110523.png",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a880712efff8130c7d6d0b0",
+                      "subscriptionPaidAt":  "2026-08-21T08:12:19.236Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-KO89R9",
+                      "registeredBy":  "katara nilam",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "618095724805",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000461089-1787380567807-304454007.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "BKBPP9351H",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000461086-1787380567824-860874675.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a894358efff8130c7d6f3e6",
+                      "name":  "Mahee Mobile ",
+                      "email":  "dipakbarot50@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Supermall 1,Shop no,18 Infocity gandhinagar ",
+                      "phoneNumber":  9033839824,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000464489-1787380567807-631082848.jpg",
+                      "zipCode":  382007,
+                      "shopOwnerName":  "Dipak parkara ",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000464489-1787380567829-333380552.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000461078-1787380567836-829784556.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a894355efff8130c7d6f3e0",
+                      "subscriptionPaidAt":  "2026-08-22T06:36:08.139Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "652235092693",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507354-1787386199114-260149019.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "ASDPP9157A",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507353-1787386199196-499107229.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a895957efff8130c7d6f9a4",
+                      "name":  "Brahmani Mobile and Assecories",
+                      "email":  "jkprajapati99@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "A,B-45Super Mall 1, Infocity, Gandhinagar ",
+                      "phoneNumber":  9978512010,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507338-1787386199110-850271852.jpg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Prajapati Jaynti Keshavlal",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507338-1787386199340-370120453.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507356-1787386199462-279815006.jpg",
+                      "docVerificationStatus":  "Rejected",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a895918efff8130c7d6f99e",
+                      "subscriptionPaidAt":  "2026-08-22T08:09:59.822Z",
+                      "isActive":  true,
+                      "ratings":  5,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4EJ5EX",
+                      "registeredBy":  "smeet thakkar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+                                          "@{user=; rating=5; comment=Good service ; createdAt=2026-08-04T11:45:19.910Z; _id=6a895f61efff8130c7d6fdec}"
+                                      ],
+                      "__v":  2,
+                      "description":  ""
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "570455384577",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507529-1787397424415-971317348.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "AAHPO0779P",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507530-1787397424517-539213340.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a898531efff8130c7d70924",
+                      "name":  "Anjani Medical ",
+                      "email":  "bhavinoza4878@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "4-A, Supermall 1, Infocity",
+                      "phoneNumber":  9624011131,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507523-1787397424403-146879880.jpg",
+                      "zipCode":  302010,
+                      "shopOwnerName":  "Bhavin oza",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507523-1787397424677-927624181.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000507531-1787397424835-587386244.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a898507efff8130c7d70916",
+                      "subscriptionPaidAt":  "2026-08-22T11:17:05.171Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-8ABY14",
+                      "registeredBy":  "harpal sinh sarvaiya",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "HARPAL_10FREE",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "325698741526",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584875-729306323.jpeg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "FRTPP8796D",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_2-1787120584890-153797554.jpeg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a854bc8efff8130c7d69d02",
+                      "name":  "MeCity Test Store 102",
+                      "email":  "test_seller102@gmail.com",
+                      "keyPoints":  "100% Genuine Products, Fast Shipping, 7 Days",
+                      "address":  "Crystal Plaza, Link Road, Sargasan",
+                      "phoneNumber":  9876543210,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584874-972803175.jpeg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Rudra Joshi",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-11_at_3_00_23_PM-1787120584899-500764742.jpeg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1_1-1787120584905-551586171.jpeg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a854bc8efff8130c7d69cfc",
+                      "subscriptionPaidAt":  "2026-08-21T09:38:42.463Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "employeeCode":  "MECITY-0907YT",
+                      "registeredBy":  "NENCY PATHAN ",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0,
+                      "resetPasswordTime":  "2026-08-20T08:51:48.622Z",
+                      "resetPasswordToken":  "95a6c53c6990972675e2a4777a1fcb652d9850f233fe3ab6a19082f6dde21495",
+                      "description":  "100% Genuine Products, Fast Shipping, 7 Days"
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "515835266716",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466626-1787549233408-414671304.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "AGMPT5652R",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466627-1787549233466-335293228.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8bd631efff8130c7d71906",
+                      "name":  "SaiKrupa mobiles",
+                      "email":  "saikrupa12@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "SaiKrupa mobile stores opp,Devam Hospital Naroda, Ahmedabad ",
+                      "phoneNumber":  9879055405,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466617-1787549233405-295425414.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Amit bhai",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466611-1787549233482-319391.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466610-1787549233509-173822221.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8bd62defff8130c7d718fd",
+                      "subscriptionPaidAt":  "2026-08-24T05:27:13.801Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "278336986974",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466667-1787550210499-796573559.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "IGOPM4143J",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466668-1787550210646-706667668.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8bda03efff8130c7d71b37",
+                      "name":  "Krisha Mobiles",
+                      "email":  "mkrathi.mkr@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Shop no,16 Naroda Gam",
+                      "phoneNumber":  9099599010,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466669-1787550210494-449164462.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Manoj kumar Maheshwari",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466666-1787550210737-789566124.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000466665-1787550210916-160501998.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8bd9fcefff8130c7d71b31",
+                      "subscriptionPaidAt":  "2026-08-24T05:43:31.295Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "GST",
+                                        "number":  "24BWJPG6568H1Z9",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002666-1787554371477-396877354.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "MSME",
+                                        "number":  "UDYAM-GJ-09-0021706",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002670-1787554371602-538952334.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8bea43efff8130c7d71f1f",
+                      "name":  "Info Stationary and Printers",
+                      "email":  "shreejienterprise8494@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "A-12, Supermall 1, Infocity",
+                      "phoneNumber":  8469433394,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002658-1787554371470-617698522.jpg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Arvind Bhai",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002658-1787554371608-69891318.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002659-1787554371627-615965488.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8bea28efff8130c7d71f19",
+                      "subscriptionPaidAt":  "2026-08-24T06:52:51.946Z",
+                      "isActive":  true,
+                      "ratings":  5,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4EJ5EX",
+                      "registeredBy":  "smeet thakkar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "SMEET_10FREE",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+                                          "@{user=; rating=5; comment=All Beauty products available ; createdAt=2026-08-04T11:45:19.910Z; _id=6a8becf6efff8130c7d71fed}"
+                                      ],
+                      "__v":  1
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "386011012553",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/IMG-20260824-WA0011-1787555428845-512898182.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "JKIPK0085G",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/IMG-20260824-WA0010-1787555428859-761278682.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8bee65efff8130c7d73e69",
+                      "name":  "Mahalaxmi mobile ",
+                      "email":  "bharatlohar34315@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Sutarna karkhana rhod durganagar society opp naroda ahmedabad ",
+                      "phoneNumber":  6379030946,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/IMG-20260824-WA0009-1787555428844-191100736.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Bharat bhai",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/IMG-20260824-WA0009-1787555428864-416558286.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/20260824_113423-1787555428872-657973170.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8bee62efff8130c7d73e63",
+                      "subscriptionPaidAt":  "2026-08-24T07:10:29.024Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "61186901178",
+                      "bankIfscCode":  "SBIN0011307",
+                      "bankAccountName":  "Bharat kumar",
+                      "bankName":  "State Bank of India",
+                      "bankBranchName":  "BHINMAL",
+                      "employeeCode":  "MECITY-P7F3H1",
+                      "registeredBy":  "Mehul santosh more",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "MSME",
+                                        "number":  "UDYAM-GJ-01-0539957",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000467074-1787574580594-657489411.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "445031612291",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000467075-1787574580727-666126124.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8c3935efff8130c7d7459a",
+                      "name":  "VYANA MOBILE \u0026 ACCESSORYS",
+                      "email":  "sandvanz07@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "A22 Ne,Galexy Cinema,Naroda, Ahmedabad ",
+                      "phoneNumber":  7016013404,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000467089-1787574580590-925045947.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "SANDIP VANZA",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000467077-1787574580812-92322956.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000467086-1787574580906-792657431.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8c3931efff8130c7d74594",
+                      "subscriptionPaidAt":  "2026-08-24T12:29:41.246Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "MSME",
+                                        "number":  "UDYAM-GJ-09-0023851",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002794-1787637614444-497314847.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "708648360099",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002795-1787637614571-766413937.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8d2f6fefff8130c7d74e74",
+                      "name":  "Club Laptop",
+                      "email":  "clublaptopgandhinagar@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "B-144,Supermall 1, Infocity",
+                      "phoneNumber":  9033244503,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002792-1787637614440-677201655.jpg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Alpesh Patel",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002792-1787637614646-466558194.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002793-1787637614749-737491973.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8d2f4aefff8130c7d74e6e",
+                      "subscriptionPaidAt":  "2026-08-25T06:00:15.012Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4EJ5EX",
+                      "registeredBy":  "smeet thakkar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "SMEET_10FREE",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "653283708831",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002807-1787640178830-592714138.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "ASAPB3338G",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002806-1787640178909-935337236.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8d3973efff8130c7d75196",
+                      "name":  "Infinity Western Outfit",
+                      "email":  "bigadhoi@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Shop No.6, Supermall 1, Infocity",
+                      "phoneNumber":  9016386659,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002804-1787640178825-76775389.jpg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Sagar Bhai",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002804-1787640179035-542204612.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000002805-1787640179110-645397991.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8d3951efff8130c7d75190",
+                      "subscriptionPaidAt":  "2026-08-25T06:42:59.422Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4EJ5EX",
+                      "registeredBy":  "smeet thakkar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "SMEET_10FREE",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "989898989896",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-07-18_at_2_26_36_AM-1787641711430-938159059.jpeg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "DFGHN5678J",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-07-22_at_2_44_17_PM__1_-1787641711447-760299696.jpeg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a8d3f6fefff8130c7d7542c",
+                      "name":  "qawdrftghjm",
+                      "email":  "naaz@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "ASDFGHJKMJHBVCBV ",
+                      "phoneNumber":  8789878987,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-07-18_at_3_46_47_PM-1787641711429-185769618.jpeg",
+                      "zipCode":  878789,
+                      "shopOwnerName":  "qawfghj",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-07-18_at_2_26_36_AM-1787641711454-855194081.jpeg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-07-18_at_3_46_47_PM-1787641711458-365041884.jpeg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a8d3f6fefff8130c7d75426",
+                      "subscriptionPaidAt":  "2026-08-25T07:08:31.537Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-VUI6H8",
+                      "registeredBy":  "naaz shaikh",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "PAN",
+                                        "number":  "HJGTF1234A",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870391232734314535424060264723-1787039477176-141561211.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "856236589632",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870391021952917966245236732330-1787039477206-728180793.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a840ef6efff8130c7d6921f",
+                      "name":  "Rajvadi tea",
+                      "email":  "www.ravalsachin8585@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Ganthinagar",
+                      "phoneNumber":  7016390984,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870394586848899037622951481601-1787039477154-653343983.jpg",
+                      "zipCode":  343845,
+                      "shopOwnerName":  "Rajesh",
+                      "city":  "Adalaj",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870393121018264887252921337011-1787039477581-365951033.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870393274022823944183399004409-1787039477596-546480229.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a840eeeefff8130c7d69212",
+                      "subscriptionPaidAt":  "2026-08-18T07:51:18.495Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-VUI6H8",
+                      "registeredBy":  "naaz shaikh",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "398356815401",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7263-1786001411330-170046483.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "AVOPP8187E",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7269-1786001411369-250436492.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a743803efff8130c7d6456d",
+                      "name":  "Om auto advisor ",
+                      "email":  "pawarroshan04125@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Opp.rto gate no 3 , Vastral , ahmedabad ",
+                      "phoneNumber":  7016898020,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7283-1786001411327-890837699.jpg",
+                      "zipCode":  382418,
+                      "shopOwnerName":  "Vishal pawar",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7273-1786001411383-828388661.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7279-1786001411391-259705524.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a743802efff8130c7d64567",
+                      "subscriptionPaidAt":  "2026-08-06T07:30:11.485Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-01TGXI",
+                      "registeredBy":  "NIKIL PATIL",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "ME-QUXC1RL8",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  1,
+                      "description":  ""
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "345693565688",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7336-1786009915710-796790100.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "BQZPP0038F",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7337-1786009915726-973740347.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a74593befff8130c7d64ab7",
+                      "name":  "Jay ambe pujapa bhandar",
+                      "email":  "rp9411554@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "50 ayodhya park society new rto vastral",
+                      "phoneNumber":  7041805198,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7338-1786009915710-135142090.jpg",
+                      "zipCode":  382418,
+                      "shopOwnerName":  "Rajendra Pal",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7341-1786009915732-14308714.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/7344-1786009915738-867943423.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a74593befff8130c7d64ab1",
+                      "subscriptionPaidAt":  "2026-08-06T09:51:55.830Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-01TGXI",
+                      "registeredBy":  "NIKIL PATIL",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "ME-QUXC1RL8",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0,
+                      "resetPasswordTime":  "2026-08-08T07:29:35.939Z",
+                      "resetPasswordToken":  "d2e9c7751e60ce65701920ef1c45742de5440123562809baeb99476e983b0950"
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "476785324014",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000395151-1786016509961-969815862.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "BAGPV8000C",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000393233-1786016509974-360590064.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a7472feefff8130c7d64df4",
+                      "name":  "MAHADEV MOTORS ",
+                      "email":  "kushkhushi77@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Mahadev motors,Hanspura-Dehgam road,Enasan, Ahmedabad ",
+                      "phoneNumber":  8511580420,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000447155-1786016509960-88272362.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Kushalbhai Vyas ",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000447155-1786016509982-842578346.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000447175-1786016509987-90533330.png",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a7472fcefff8130c7d64dee",
+                      "subscriptionPaidAt":  "2026-08-06T11:41:50.109Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "ME-W9WUIITR",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "261614790862",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448203-1786097643840-193812316.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "BCNPV1208H",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448201-1786097643961-202902116.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a75afecefff8130c7d65532",
+                      "name":  "Pall\u0027s beauty care",
+                      "email":  "vyaspallavi453@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "155,SHRI NAGARSHETH DHARAMSHALA,NARODA VILLAGE",
+                      "phoneNumber":  9081814043,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448180-1786097643818-321942597.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Vyas Pallavi ",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000448180-1786097643967-598617626.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17860975551214287754680920456356-1786097643985-931526216.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a75afe0efff8130c7d6552c",
+                      "subscriptionPaidAt":  "2026-08-07T10:14:04.301Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "ME-W9WUIITR",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "373919916613",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17863638986427865636383641154660-1786364110086-508767175.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "CSGPP0672P",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17863639453576247283390549886043-1786364110235-572300883.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a79c0ceefff8130c7d66213",
+                      "name":  "Raja meldi selection ",
+                      "email":  "panchalmanthan606@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Shop No,2 opp shree ram apartment, suttarkarkhana cross road naroda",
+                      "phoneNumber":  8511260330,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1786364084966120947954845484123-1786364110082-821560124.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Panchal Manthan prakashbhai",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17863639812982225394773681953184-1786364110325-411753234.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17863639602856515517729531860784-1786364110463-531736547.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a79c0c9efff8130c7d6620d",
+                      "subscriptionPaidAt":  "2026-08-10T12:15:10.834Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "ME-W9WUIITR",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "786662139340",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000452261-1786426549644-37207650.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "GHTPP9270F",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000452263-1786426549653-628616966.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a7ab4b5efff8130c7d6643f",
+                      "name":  "Jay Ambe motor driving school",
+                      "email":  "shivp3385@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Shop No 332, Pearl Plaza, E.B, Haridarshan Cross Rd, nr. Maharshi Sandipani School G, Vasant Vihar 2, Naroda, Ahmedabad, Gujarat 382330",
+                      "phoneNumber":  8200721056,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000451798-1786426549643-902046435.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Shivam patel",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000451798-1786426549677-771629384.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000452254-1786426549689-740480047.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a7ab4b3efff8130c7d66439",
+                      "subscriptionPaidAt":  "2026-08-11T05:35:49.781Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "ME-W9WUIITR",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "GST",
+                                        "number":  "22AAAAA1234A1Z6",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/Gemini_Generated_Image_94a7t694a7t694a7-1786523132637-745364424.png"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "AAAAA1234A",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/Gemini_Generated_Image_94a7t694a7t694a7-1786523132673-872511716.png"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a7c2dfdefff8130c7d66a73",
+                      "name":  "demo x ",
+                      "email":  "V9377199771@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "demo shop 1 demo complex ",
+                      "phoneNumber":  9377199771,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/Gemini_Generated_Image_94a7t694a7t694a7-1786523132582-638042122.png",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "demo v",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/Gemini_Generated_Image_94a7t694a7t694a7-1786523133035-461791765.png",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/Gemini_Generated_Image_94a7t694a7t694a7-1786523133053-569507744.png",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a7c2df2efff8130c7d66a69",
+                      "subscriptionPaidAt":  "2026-08-12T08:25:33.841Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-6LZ2DC",
+                      "registeredBy":  "vimalkumar ",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "819338018568",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000453666-1786531374633-875804469.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "AQUPR0847A",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000453668-1786531374642-535771395.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a7c4e2eefff8130c7d66ef8",
+                      "name":  "Siddheshwari beauty and hair saloon",
+                      "email":  "hetaltanu@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "GF-10,PEARL 167,Canal road,shilaj, Ahmedabad ",
+                      "phoneNumber":  7984555368,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000453673-1786531374632-360989800.jpg",
+                      "zipCode":  380059,
+                      "shopOwnerName":  "Hetalben Amit Kumar Sagar ",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000453673-1786531374656-671235175.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000453708-1786531374661-279488849.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a7c4e0cefff8130c7d66ee5",
+                      "subscriptionPaidAt":  "2026-08-12T10:42:54.779Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "ME-BQSTRCEF",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "731865588379",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-13_at_2_57_45_PM-1786613615998-598805505.jpeg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "BXYPV6786J",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-13_at_2_56_23_PM-1786613616010-191705441.jpeg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a7d8f70efff8130c7d678ea",
+                      "name":  "naman and brothers",
+                      "email":  "connectnamanbrothers@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "B 408 ,Grand Emporio Motera Stdiom Rd ,opposite Hp Petrol pump, above osis hypermarket, motera Ahmedabad",
+                      "phoneNumber":  9106274889,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-13_at_2_57_45_PM__1_-1786613615996-390993121.jpeg",
+                      "zipCode":  678767,
+                      "shopOwnerName":  "naman vyas",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-13_at_2_57_43_PM-1786613616018-489983181.jpeg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-08-13_at_2_57_44_PM-1786613616025-179260419.jpeg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a7d8f6fefff8130c7d678e4",
+                      "subscriptionPaidAt":  "2026-08-13T09:33:36.094Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-HSFX81",
+                      "registeredBy":  "nency pathan",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "921906874684",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000459616-1786952530159-415495141.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "BCRPS2639R",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000459617-1786952530299-838326420.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a82bb52efff8130c7d6804c",
+                      "name":  "K.R POWER AND TOOLS",
+                      "email":  "krpowertools1101.ramesh@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "10,somnath complex Near Gelexy Naroda ",
+                      "phoneNumber":  9913990802,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000459614-1786952530150-44945545.jpg",
+                      "zipCode":  382330,
+                      "shopOwnerName":  "Rameshbhai sisodiya",
+                      "city":  "Ahmedabad",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000459612-1786952530385-476013514.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000459615-1786952530550-82522241.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a82bb4cefff8130c7d68046",
+                      "subscriptionPaidAt":  "2026-08-17T07:42:10.904Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-4KPJA1",
+                      "registeredBy":  "KHUSHBU KUSHALBHAI VYAS",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar Card",
+                                        "number":  "548912345678",
+                                        "photo":  "https://your-s3-bucket.amazonaws.com/uploads/doc1_aadhaar.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "GST Certificate",
+                                        "number":  "27AAAAA0000A1Z5",
+                                        "photo":  "https://your-s3-bucket.amazonaws.com/uploads/doc2_gst.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "72.8336 19.1363"
+                                   },
+                      "_id":  "6a83f8e6efff8130c7d68757",
+                      "name":  "MeCity Super Electronics Store",
+                      "email":  "test_seller101@gmail.com",
+                      "keyPoints":  "Fast same-day delivery, 100% Genuine Products, 7-day return policy, Certified Brand Warranty",
+                      "address":  "Shop No. 104, 1st Floor, Crystal Plaza, New Link Road, Andheri West",
+                      "phoneNumber":  9876543210,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/20260803_125346-1787033829438-973086618.jpg",
+                      "zipCode":  400053,
+                      "shopOwnerName":  "Rudra Joshi",
+                      "city":  "Mumbai",
+                      "state":  "Maharashtra",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1787033179110898903170903669979-1787033829528-81384435.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870331912596628018991947010704-1787033829808-927091831.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a83f89eefff8130c7d6872a",
+                      "subscriptionPaidAt":  "2026-08-18T06:17:10.189Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "987654321098",
+                      "bankIfscCode":  "SBIN0001234",
+                      "bankAccountName":  "Rudra Joshi",
+                      "bankName":  "State Bank of India",
+                      "bankBranchName":  "Andheri West Main Branch",
+                      "employeeCode":  "MECITY-VUI6H8",
+                      "registeredBy":  "naaz shaikh",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0,
+                      "description":  "Authorized dealer for premium electronics, smartphones, laptops, audio gear, and genuine accessories with manufacturer warranty."
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "786567898765",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870341375523857469509103574543-1787034703176-12961215.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "JHHDD1234A",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870341970298944734460123031355-1787034703268-359802278.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a83fc4fefff8130c7d6888b",
+                      "name":  "Phone wale ",
+                      "email":  "prajapatijay1302@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Mansa gandhinagar Gujarat ",
+                      "phoneNumber":  9714075138,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000097470-1787034703172-108642223.jpg",
+                      "zipCode":  382845,
+                      "shopOwnerName":  "Akash patel",
+                      "city":  "Mansa",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1787034270093606433931171696417-1787034703326-87241564.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870342831887805575707414892705-1787034703425-310533288.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a83fc4befff8130c7d68885",
+                      "subscriptionPaidAt":  "2026-08-18T06:31:43.673Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-VUI6H8",
+                      "registeredBy":  "naaz shaikh",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "272647370938",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1787038947357850315216414295566-1787039418138-455814235.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "GHJUY1234H",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870389895118984916117300051498-1787039418186-778115271.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a840ebaefff8130c7d69200",
+                      "name":  "Kiran store",
+                      "email":  "keval44@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "16 mansa gandhinagar ",
+                      "phoneNumber":  6843783043,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870391719292646770293788126362-1787039418136-305734665.jpg",
+                      "zipCode":  382845,
+                      "shopOwnerName":  "Rajesh bhai",
+                      "city":  "Mansa",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870390050156534967412712577721-1787039418290-886899151.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17870390277653401865446754479367-1787039418347-203496702.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-08-04T11:45:19.910Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a840ea7efff8130c7d691f8",
+                      "subscriptionPaidAt":  "2026-08-18T07:50:18.556Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-VUI6H8",
+                      "registeredBy":  "naaz shaikh",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "254864193857",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000026690-1784468573880-639390043.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "JRDPS3774N",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000026692-1784468573904-603928254.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a5cd45e5ab196028cb577ec",
+                      "name":  "Prime cooling system and water solution ",
+                      "email":  "sunilsqpriya26@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Shop 3 Sidharth xlusive swagat blossom road sargasan ",
+                      "phoneNumber":  8160705868,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000026694-1784468573877-352239914.jpg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Sunil sapriya",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000026696-1784468573917-380826753.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000026697-1784468573935-712992585.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-07-16T12:14:24.340Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a5cd45c5ab196028cb577e6",
+                      "subscriptionPaidAt":  "2026-07-19T13:42:54.158Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-6LZ2DC",
+                      "registeredBy":  "vimalkumar ",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "PAN",
+                                        "number":  "AQBPM8588Q",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/NIRAJ_MODI_PAN_CARD-1784366896294-896817439.jpeg"
+                                    },
+                      "document2":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "264166009803",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/NIRAJ_MODI_AADHAR-1784366896294-330605035.jpeg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a5b47305ab196028cb57533",
+                      "name":  "DILIGENCE  DESIGN  STUDIO",
+                      "email":  "armodiniraj@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "701 Sungrace Arcade,  Visat - Gandhinagar Highway,  Motera, Ahmedabad",
+                      "phoneNumber":  9824535762,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/53896d36-a159-4e6e-8c62-475a991c7e1e-1784366896289-721163795.jpg",
+                      "zipCode":  380006,
+                      "shopOwnerName":  " Niraj Modi",
+                      "city":  "Gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-07-18_at_2_26_33_AM-1784366896337-830902385.jpeg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/WhatsApp_Image_2026-07-18_at_2_26_36_AM-1784366896353-256988020.jpeg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-07-16T12:14:24.340Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a5b472f5ab196028cb5752d",
+                      "subscriptionPaidAt":  "2026-07-18T09:28:16.470Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-HSFX81",
+                      "registeredBy":  "nency pathan",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  0,
+                      "resetPasswordTime":  "2026-07-18T09:54:37.514Z",
+                      "resetPasswordToken":  "be4a29a012bff9fb2b18aab77646079582df96e4b7af14029d5eccdf8462849a"
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "MSME",
+                                        "number":  "UDYAM-GJ-09-0035448",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116295-1782310788887-801097606.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "RGYPS3744E",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116294-1782310789001-66113679.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a3be785e63a0ecb3d51776a",
+                      "name":  "Sky Cake ",
+                      "email":  "skycake2026@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Sky Cake Shop no. 2 Sidharth Xclusive ",
+                      "phoneNumber":  6355832813,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310788873-399378255.jpg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Ravi Gohil",
+                      "city":  "GANDHINAGAR",
+                      "state":  "Gujarat ",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116298-1782310789069-608097228.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000116297-1782310789093-378366342.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a3be780e63a0ecb3d517760",
+                      "subscriptionPaidAt":  "2026-06-24T14:19:49.330Z",
+                      "isActive":  true,
+                      "ratings":  5,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-8MGD8M",
+                      "registeredBy":  "Vimal kumar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+                                          "@{user=; rating=5; comment=nice cake; createdAt=2026-08-04T11:45:19.910Z; _id=6a84413defff8130c7d69afb}"
+                                      ],
+                      "__v":  1,
+                      "resetPasswordTime":  "2026-08-21T08:28:10.361Z",
+                      "resetPasswordToken":  "f2cf4f2dbedd8d821a909fa3fb6e79260d8be80800e62ecb0ad9bc362ad8f38b",
+                      "description":  "Updated description for test verification"
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "Aadhaar",
+                                        "number":  "656789098765",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/unnamed-1782543827386-690665515.webp"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "GHJNB4567H",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/unnamed-1782543827392-376705721.webp"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a3f75d3e63a0ecb3d5185f7",
+                      "name":  "khwaish ladies tailor",
+                      "email":  "shaikhnazera30@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "PETHAPUR GANDHINAGAR",
+                      "phoneNumber":  9998058236,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/images-1782543827385-438300874.jpg",
+                      "zipCode":  382610,
+                      "shopOwnerName":  "Nazera",
+                      "city":  "gandhinagar",
+                      "state":  "Gujarat",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/images-1782543827402-836530212.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/images__1_-1782543827410-543112426.jpg",
+                      "docVerificationStatus":  "Pending",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a3f75d3e63a0ecb3d5185f1",
+                      "subscriptionPaidAt":  "2026-06-27T07:03:47.483Z",
+                      "isActive":  true,
+                      "ratings":  5,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-HSFX81",
+                      "registeredBy":  "nency pathan",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+                                          "@{user=; rating=5; comment=; createdAt=2026-06-27T07:34:56.372Z; _id=6a3f9edb77be37e303ca8af5}",
+                                          "@{user=; rating=5; comment=; createdAt=2026-06-27T11:50:34.967Z; _id=6a42042de9ca0f13dc81fae1}"
+                                      ],
+                      "__v":  2
+                  },
+                  {
+                      "document1":  {
+                                        "type":  "MSME",
+                                        "number":  "UDYAM-GJ-09-0065700",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000607440-1782310983542-799868064.jpg"
+                                    },
+                      "document2":  {
+                                        "type":  "PAN",
+                                        "number":  "ACUPB2227E",
+                                        "photo":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/1000607447-1782310983608-432772213.jpg"
+                                    },
+                      "location":  {
+                                       "type":  "Point",
+                                       "coordinates":  "0 0"
+                                   },
+                      "_id":  "6a3be848e63a0ecb3d5177e9",
+                      "name":  "Alicorn Wellness General Store ",
+                      "email":  "pravinabhatt27@gmail.com",
+                      "keyPoints":  "",
+                      "address":  "Shop no 1 Sidharth xclusive swagat blossom road sargasan ",
+                      "phoneNumber":  9971031880,
+                      "role":  "Seller",
+                      "avatar":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17823109661052632612760549325830-1782310983536-818073754.jpg",
+                      "zipCode":  382010,
+                      "shopOwnerName":  "Pravinaben ",
+                      "city":  "Gandhinagar ",
+                      "state":  "Gujarat ",
+                      "shopFrontPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17823109235412491584611087616278-1782310983745-341700072.jpg",
+                      "ownerAtCounterPhoto":  "https://mecity-supplier-data.s3.ap-south-1.amazonaws.com/uploads/17823109394254057034642196668626-1782310983761-628427935.jpg",
+                      "docVerificationStatus":  "Approved",
+                      "availableBalance":  0,
+                      "createdAt":  "2026-06-24T12:02:40.503Z",
+                      "status":  "Verified",
+                      "rejectReason":  "",
+                      "subscriptionPaid":  true,
+                      "subscriptionTransactionId":  "6a3be841e63a0ecb3d5177e3",
+                      "subscriptionPaidAt":  "2026-06-24T14:23:04.024Z",
+                      "isActive":  true,
+                      "ratings":  0,
+                      "bankAccountNumber":  "",
+                      "bankIfscCode":  "",
+                      "bankAccountName":  "",
+                      "bankName":  "",
+                      "bankBranchName":  "",
+                      "employeeCode":  "MECITY-8MGD8M",
+                      "registeredBy":  "Vimal kumar",
+                      "discountCouponApplied":  true,
+                      "discountCouponCode":  "THEME_100",
+                      "transections":  [
+
+                                       ],
+                      "shopRatings":  [
+
+                                      ],
+                      "__v":  3,
+                      "description":  ""
+                  }
+              ]
+}
